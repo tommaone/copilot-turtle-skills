@@ -1,0 +1,27 @@
+{
+  "name": "turtle-squad",
+  "description": "TMNT-inspired turtle squad for GitHub Copilot — siege-specialist software engineering with Splinter orchestration, parallel /fleet dispatch, and Shredder quality gate.",
+  "version": "1.0.0",
+  "keywords": [
+    "tmnt",
+    "turtleman",
+    "multi-agent",
+    "orchestration",
+    "splinter",
+    "shredder",
+    "developer-workflow",
+    "engineering"
+  ],
+  "author": {
+    "name": "Martin Tomecka",
+    "email": "martin.tomecka@allianz.at"
+  },
+  "repository": "https://github.com/tommaone/copilot-turtle-skills",
+  "license": "MIT",
+  "agents": [
+    "./agents"
+  ],
+  "skills": [
+    "./skills/turtle-dojo"
+  ]
+}
