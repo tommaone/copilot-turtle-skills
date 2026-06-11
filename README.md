@@ -89,7 +89,7 @@ The turtles never change. They evolve. 🐢
 | Claude Code | [tommaone/claude-skills](https://github.com/tommaone/claude-skills) |
 | opencode | [tommaone/opencode-turtle-skills](https://github.com/tommaone/opencode-turtle-skills) |
 | GitHub Copilot CLI | [tommaone/copilot-turtle-skills](https://github.com/tommaone/copilot-turtle-skills) ← you are here |
-| Kiro | coming soon |
+| Kiro | [tommaone/kiro-turtle-skills](https://github.com/tommaone/kiro-turtle-skills) |
 
 ---
 
